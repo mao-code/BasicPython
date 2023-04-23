@@ -1,21 +1,21 @@
 # Basic Python
 This is a repository for learning basic python learning.
+We will cover basic programming concept and practice of python.
 
 # :pushpin: Outline
-* Environment
+## Environment
   * Anaconda 
   * MiniConda
   * Miniforge
-* Basic 
+## Basic 
   * Syntax
   * Variables
   * Data Types
   * I/O
-* Statement
+## Statement (TBA)
   * if-else
-* Loop
+## Loop (TBA)
   * for loop
   * while loop
-* Function & Module
-  * Function
-  * Module ()
+## Function & Module (TBA)
+## Common used library (TBA)
